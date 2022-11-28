@@ -1,6 +1,6 @@
 <head>
     <meta charset="utf-8">
-    <title>Tayler Taylers HTML Template</title>
+    <title>Style Loft</title>
     <!-- Stylesheets -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
