@@ -1,5 +1,5 @@
 <footer class="main-footer" style="background-image: url(assets/images/background/bg-6.jpg);">
-    <div class="auto-container">
+    <div hidden class="auto-container">
         <!--Widgets Section-->
         <div class="widgets-section">
             <div class="row">
@@ -82,7 +82,7 @@
     <!-- Footer Bottom -->
     <div class="footer-bottom">
         <div class="auto-container">
-            <div class="copyright">© Copyright 2022 by Company.com</div>
+            <div class="copyright">© Copyright 2022 Style Loft. Diseñado por <a target="_blank" href="https:bananagroup.mx">Banana Group Marketing</a></div>
         </div>
     </div>
 </footer>
