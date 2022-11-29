@@ -15,7 +15,7 @@
                  <div class="middle-column">
                      <!--Logo-->
                      <div class="logo-box">
-                         <div class="logo"><a href="index.html"><img src="assets/images/logo-light.png" alt=""></a>
+                         <div class="logo"><a href="index.php"><img src="assets/images/logo-light.png" alt=""></a>
                          </div>
                      </div>
                  </div>
@@ -36,7 +36,7 @@
              <div class="inner-container">
                  <!--Logo-->
                  <div class="logo-box d-none">
-                     <div class="logo"><a href="index.html"><img src="assets/images/logo-light.png" alt=""></a></div>
+                     <div class="logo"><a href="index.php"><img src="assets/images/logo-light.png" alt=""></a></div>
                  </div>
                  <!--Nav Box-->
                  <div class="nav-outer">
@@ -54,9 +54,9 @@
                                      </ul> -->
                                  </li>
                                  <li><a href="index.php#nosotros">Nosotros</a></li>
-                                 <li><a href="index.php#nosotros">Galería</a></li>
-                                 <li><a href="index.php#nosotros">Opiniones</a></li>
-                                 <li><a href="index.php#nosotros">Contacto</a></li>
+                                 <li><a href="index.php#galeria">Galería</a></li>
+                                 <li><a href="index.php#opiniones">Opiniones</a></li>
+                                 <li><a href="index.php#contacto">Contacto</a></li>
                                  <!-- <li class="dropdown"><a href="#">Services</a>
                                      <ul>
                                          <li><a href="services.html">Our Services</a>
@@ -100,7 +100,7 @@
                  <div class="inner-container">
                      <!--Logo-->
                      <div class="logo-box">
-                         <div class="logo"><a href="index.html"><img src="assets/images/logo-light.png" alt=""></a>
+                         <div class="logo"><a href="index.php"><img src="assets/images/logo-light.png" alt=""></a>
                          </div>
                      </div>
                      <div class="right-column">
@@ -125,7 +125,7 @@
          <div class="close-btn"><i class="icon fal fa-times"></i></div>
 
          <nav class="menu-box">
-             <div class="nav-logo"><a href="index.html"><img src="assets/images/logo-light.png" alt="" title=""></a>
+             <div class="nav-logo"><a href="index.php"><img src="assets/images/logo-light.png" alt="" title=""></a>
              </div>
              <div class="menu-outer">
                  <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
@@ -133,11 +133,8 @@
              <!--Social Links-->
              <div class="social-links">
                  <ul class="clearfix">
-                     <li><a href="#"><span class="fab fa-twitter"></span></a></li>
-                     <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
-                     <li><a href="#"><span class="fab fa-pinterest-p"></span></a></li>
+                     <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>i>
                      <li><a href="#"><span class="fab fa-instagram"></span></a></li>
-                     <li><a href="#"><span class="fab fa-youtube"></span></a></li>
                  </ul>
              </div>
          </nav>

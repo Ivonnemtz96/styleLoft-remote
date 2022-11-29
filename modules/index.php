@@ -80,7 +80,7 @@
 </section>
 
 <!-- Introduction -->
-<section class="introduction-section">
+<section class="introduction-section" id="nosotros">
     <div class="auto-container">
         <div class="row">
             <div class="col-lg-6">
@@ -100,7 +100,8 @@
                     <div class="sub-title">¿Quiénes somos?</div>
                     <div class="sec-title">Tu mejor opción <br> para lucir</div>
                     <div class="introduction-block_text">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex consequuntur dolorem omnis aliquid delectus quas. Maxime consequuntur quos culpa, nam distinctio repellat natus, unde, eaque nihil ullam quibusdam aspernatur laboriosam!
+                        Somos una empresa dedicada a llevar a nuestros clientes la moda más vanguardista y
+                        exclusiva con las mejores y más reconocidas marcas. Reafirmamos nuestro compromiso de llevarte lo último en moda y accesorios para dama y caballero a un excelente precio.
                     </div>
                     <ul class="introduction-block_list">
                         <li>
@@ -109,7 +110,7 @@
                         </li>
                         <li>
                             <i class="icon"><img src="assets/images/shape/shape-2.png" alt=""></i>
-                            Los mejores accesorios para combinar tu outfit  
+                            Los mejores accesorios para combinar tu outfit
                         </li>
                     </ul>
                     <div class="row">
@@ -118,7 +119,7 @@
                                 <div class="introduction-block_phone-title">Llámanos</div>
                                 <div class="introduction-block-phone">
                                     <a href="tel:6241368912"> 624 136 8912</a>
-                            </div>
+                                </div>
                             </div>
                         </div>
                         <div class="col-md-6">
@@ -151,8 +152,7 @@
                     <div class="service-block-three_image img_hover_2"><img src="assets/images/resource/image-3.jpg"
                             alt=""></div>
                     <h4 class="service-block-three_title">Accesorios</h4>
-                    <div class="service-block-three_text">Donec suscipit ipsum quis est mentum, quis sollicitudin libero
-                        tempus.</div>
+                    <div class="service-block-three_text">Los mejores accesorios para combianr tu outfit.</div>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -164,8 +164,7 @@
                     <div class="service-block-three_image img_hover_2"><img src="assets/images/resource/image-9.png"
                             alt=""></div>
                     <h4 class="service-block-three_title">Ropa de Caballero</h4>
-                    <div class="service-block-three_text">Donec suscipit ipsum quis est mentum, quis sollicitudin libero
-                        tempus.</div>
+                    <div class="service-block-three_text">Estilo es una manera de decir quien eres sin tener que hablar</div>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -177,8 +176,7 @@
                     <div class="service-block-three_image img_hover_2"><img src="assets/images/resource/image-5.jpg"
                             alt=""></div>
                     <h4 class="service-block-three_title">Ropa Dama</h4>
-                    <div class="service-block-three_text">Donec suscipit ipsum quis est mentum, quis sollicitudin libero
-                        tempus.</div>
+                    <div class="service-block-three_text">La elegancia es la única belleza que nunca desaparece.</div>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -190,16 +188,22 @@
                     <div class="service-block-three_image img_hover_2"><img src="assets/images/resource/image-4.jpg"
                             alt=""></div>
                     <h4 class="service-block-three_title">Las mejores marcas</h4>
-                    <div class="service-block-three_text">Donec suscipit ipsum quis est mentum, quis sollicitudin libero
-                        tempus.</div>
+                    <div class="service-block-three_text">Ven y descubre las marcas más reconocidas que tenemos para ti.</div>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
+
+<div class="text-center">
+    <div class="sec-title-dec"><img src="assets/images/shape/shape-1.png" alt=""></div>
+    <div class="sub-title">Conócenos</div>
+    <div class="sec-title">Conoce un poco de nuestras marcas</div>
+</div>
+
 <!-- Video -->
-<section class="video-section">
+<section class="video-section" id="galeria">
     <div class="video-section_bg" data-parallax='{"y": 30}'
         style="background-image: url(assets/images/background/bg-3.jpg)"></div>
     <div class="auto-container">
@@ -212,6 +216,12 @@
     </div>
 </section>
 
+<div class="text-center">
+    <div class="sec-title-dec"><img src="assets/images/shape/shape-1.png" alt=""></div>
+    <div class="sub-title">Ve las nuevas actualizaciones</div>
+    <div class="sec-title">¡Síguenos en Instagram!</div>
+</div>
+
 <!-- Gallery -->
 <section class="gallery-section">
     <div class="auto-continer">
@@ -223,7 +233,7 @@
                         <div class="overlay-inner">
                             <div class="content">
                                 <a href="assets/images/resource/image-17.jpg" class="lightbox-image link"
-                                    data-fancybox="gallery"><span class="icon fal fa-plus"></span></a>
+                                    data-fancybox="gallery"><span class="icon fab fa-instagram"></span></a>
                             </div>
                         </div>
                     </div>
@@ -236,7 +246,7 @@
                         <div class="overlay-inner">
                             <div class="content">
                                 <a href="assets/images/resource/image-18.jpg" class="lightbox-image link"
-                                    data-fancybox="gallery"><span class="icon fal fa-plus"></span></a>
+                                    data-fancybox="gallery"><span class="icon fab fa-instagram"></span></a>
                             </div>
                         </div>
                     </div>
@@ -249,7 +259,7 @@
                         <div class="overlay-inner">
                             <div class="content">
                                 <a href="assets/images/resource/image-19.jpg" class="lightbox-image link"
-                                    data-fancybox="gallery"><span class="icon fal fa-plus"></span></a>
+                                    data-fancybox="gallery"><span class="icon fab fa-instagram"></span></a>
                             </div>
                         </div>
                     </div>
@@ -262,7 +272,7 @@
                         <div class="overlay-inner">
                             <div class="content">
                                 <a href="assets/images/resource/image-20.jpg" class="lightbox-image link"
-                                    data-fancybox="gallery"><span class="icon fal fa-plus"></span></a>
+                                    data-fancybox="gallery"><span class="icon fab fa-instagram"></span></a>
                             </div>
                         </div>
                     </div>
@@ -276,7 +286,7 @@
                         <div class="overlay-inner">
                             <div class="content">
                                 <a href="assets/images/resource/image-17.jpg" class="lightbox-image link"
-                                    data-fancybox="gallery"><span class="icon fal fa-plus"></span></a>
+                                    data-fancybox="gallery"><span class="icon fab fa-instagram"></span></a>
                             </div>
                         </div>
                     </div>
@@ -289,7 +299,7 @@
                         <div class="overlay-inner">
                             <div class="content">
                                 <a href="assets/images/resource/image-18.jpg" class="lightbox-image link"
-                                    data-fancybox="gallery"><span class="icon fal fa-plus"></span></a>
+                                    data-fancybox="gallery"><span class="icon fab fa-instagram"></span></a>
                             </div>
                         </div>
                     </div>
@@ -302,7 +312,7 @@
                         <div class="overlay-inner">
                             <div class="content">
                                 <a href="assets/images/resource/image-19.jpg" class="lightbox-image link"
-                                    data-fancybox="gallery"><span class="icon fal fa-plus"></span></a>
+                                    data-fancybox="gallery"><span class="icon fab fa-instagram"></span></a>
                             </div>
                         </div>
                     </div>
@@ -315,7 +325,7 @@
                         <div class="overlay-inner">
                             <div class="content">
                                 <a href="assets/images/resource/image-20.jpg" class="lightbox-image link"
-                                    data-fancybox="gallery"><span class="icon fal fa-plus"></span></a>
+                                    data-fancybox="gallery"><span class="icon fab fa-instagram"></span></a>
                             </div>
                         </div>
                     </div>
@@ -325,8 +335,8 @@
     </div>
 </section>
 
-<!-- Our testimonials -->
-<section class="our-testimonials-section-two">
+
+<section class="our-testimonials-section-two" id="opiniones">
     <div class="auto-container">
         <div class="text-center">
             <div class="sec-title-dec"><img src="assets/images/shape/shape-1.png" alt=""></div>
@@ -337,7 +347,8 @@
             data-options='{"loop": true, "center": false, "margin": 0, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 6000, "smartSpeed": 1000, "responsive":{ "0" :{ "items": "1" }, "480" :{ "items" : "1" }, "600" :{ "items" : "2" }, "768" :{ "items" : "2" } , "992":{ "items" : "3" }, "1200":{ "items" : "3" }}}'>
             <div class="testimonial-block-two">
                 <div class="testimonial-block-two_image"><img src="assets/images/resource/image-6.png" alt=""></div>
-                <div class="testimonial-block-two_text">Excelente servicio, atención personalizada, Ropa y sus productos de gran calidad.
+                <div class="testimonial-block-two_text">Excelente servicio, atención personalizada, Ropa y sus productos
+                    de gran calidad.
                 </div>
                 <div class="testimonial-block-two_name">Imelda Acero</div>
                 <!-- <div class="testimonial-block-two_dasignation">Customer</div> -->
@@ -345,7 +356,8 @@
 
             <div class="testimonial-block-two">
                 <div class="testimonial-block-two_image"><img src="assets/images/resource/image-7.png" alt=""></div>
-                <div class="testimonial-block-two_text">Excelente surtido de las mejores marcas de ropa, muy buena atención.
+                <div class="testimonial-block-two_text">Excelente surtido de las mejores marcas de ropa, muy buena
+                    atención.
                 </div>
                 <div class="testimonial-block-two_name">Jesus C</div>
                 <!-- <div class="testimonial-block-two_dasignation">Customer</div> -->
@@ -360,4 +372,114 @@
             </div>
         </div>
     </div>
+</section>
+
+
+
+
+<div class="text-center" id="contacto">
+    <div class="sec-title-dec"><img src="assets/images/shape/shape-1.png" alt=""></div>
+    <div class="sub-title">¿Tienes alguna duda o pregunta sobre nuestros productos?</div>
+    <div class="sec-title">¡Mándanos mensaje!</div>
+</div>
+
+<!-- Map Section -->
+<section class="map-section pb-0 mt-1">
+    <div class="auto-container">
+        <div class="contact-map">
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1835.288351141117!2d-109.71722921182806!3d23.0759754914363!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af5b777e9b1873%3A0x43383f621b60a4af!2sStyle%20loft!5e0!3m2!1ses-419!2smx!4v1669755907726!5m2!1ses-419!2smx"
+                width="600" height="500" style="border:0; width:100%" allowfullscreen="" loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </div>
+</section>
+
+<!-- Contact info Section -->
+<section class="contact-info-section pt-0">
+    <div class="auto-container">
+        <div class="contact-info-wrapper">
+            <div class="row">
+                <div class="col-lg-4 col-md-6 icon_box">
+                    <div class="inner-box">
+                        <div class="contact-info-section_text">Escríbenos</div>
+                        <h4 class="contact-info-section_title"><a
+                                href="mailto:styleloftincabo@hotmail.com">styleloftincabo@hotmail.com</a></h4>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 icon_box">
+                    <div class="inner-box">
+                        <div class="contact-info-section_text">Llámanos</div>
+                        <h4 class="contact-info-section_title"><a href="tel:+526241368912">624 136 8912</a></h4>
+                    </div>
+                </div>
+                <div class="col-lg-5 col-md-6 icon_box">
+                    <div class="inner-box">
+                        <div class="contact-info-section_text">Vísitanos</div>
+                        <h4 class="contact-info-section_title"> <a target="_blank"
+                                href="https://goo.gl/maps/D5KjrpUadpeyF4Tc6">Local 1 Fracc, Monte Real,</a></h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- Contact Form section -->
+<section class="contact-form-section">
+    <div class="auto-container">
+        <div class="contact-form-section_sec-title-area">
+            <h2 class="sec-title">¿Buscas una marca en especial? <br> Escríbenos</h2>
+            <div class="contact-form-section_description">
+                En Style Loft encontrarás los mejores accesorios <br> de las marcas más reconocidas, que
+                complementarán tu outfit <br> de una manera increíble.
+                No esperes más y ven a buscarnos. <br> ¡No te arrepentirás!
+            </div>
+            <div class="row">
+                <div class="col-lg-8">
+                    <!--Contact Form-->
+                    <div class="contact-form">
+                        <form method="post" action="https://html.tonatheme.com/2022/tayler/inc/sendemail.php"
+                            id="contact-form">
+                            <div class="row">
+                                <div class="form-group col-md-6">
+                                    <input type="text" class="form-control" name="form_name" value=""
+                                        placeholder="Nombre *" required>
+                                </div>
+                                <div class="form-group col-md-6">
+                                    <input type="email" class="form-control" name="email" value=""
+                                        placeholder="Correo *" required>
+                                </div>
+                                <div class="form-group col-md-6">
+                                    <input type="text" class="form-control" name="form_phone" value=""
+                                        placeholder="Teléfono *" required>
+                                </div>
+                                <div class="form-group col-md-6">
+                                    <input type="text" class="form-control" name="form_subject" value=""
+                                        placeholder="Asunto" required>
+                                </div>
+                                <div class="form-group col-md-12">
+                                    <textarea name="form_message" class="form-control"
+                                        placeholder="Escriba su mensaje *"></textarea>
+                                </div>
+                                <div class="form-group col-md-12">
+                                    <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden"
+                                        value="">
+                                    <button class="btn-style-one dark" type="submit"
+                                        data-loading-text="Please wait..."><span>Enviar</span></button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-lg-3 offset-lg-1">
+                    <div class="contact-author">
+                        <div class="contact-author_thumb"><img src="assets/images/resource/image-38.jpg" alt=""></div>
+                        <div class="contact-author_name">Style Loft</div>
+                        <div class="contact-author_designation">Expert Tayler</div>
+                    </div>
+                </div>
+            </div>
+        </div>
 </section>
