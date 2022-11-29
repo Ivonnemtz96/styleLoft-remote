@@ -101,7 +101,8 @@
                     <div class="sec-title">Tu mejor opción <br> para lucir</div>
                     <div class="introduction-block_text">
                         Somos una empresa dedicada a llevar a nuestros clientes la moda más vanguardista y
-                        exclusiva con las mejores y más reconocidas marcas. Reafirmamos nuestro compromiso de llevarte lo último en moda y accesorios para dama y caballero a un excelente precio.
+                        exclusiva con las mejores y más reconocidas marcas. Reafirmamos nuestro compromiso de llevarte
+                        lo último en moda y accesorios para dama y caballero a un excelente precio.
                     </div>
                     <ul class="introduction-block_list">
                         <li>
@@ -124,7 +125,8 @@
                         </div>
                         <div class="col-md-6">
                             <div class="introduction-block_link-btn">
-                                <a href="https://www.instagram.com/styleloftmr/" class="theme-btn btn-style-one">Ver Instagram</a>
+                                <a href="https://www.instagram.com/styleloftmr/" class="theme-btn btn-style-one">Ver
+                                    Instagram</a>
                             </div>
                         </div>
                     </div>
@@ -164,7 +166,8 @@
                     <div class="service-block-three_image img_hover_2"><img src="assets/images/resource/image-9.png"
                             alt=""></div>
                     <h4 class="service-block-three_title">Ropa de Caballero</h4>
-                    <div class="service-block-three_text">Estilo es una manera de decir quien eres sin tener que hablar</div>
+                    <div class="service-block-three_text">Estilo es una manera de decir quien eres sin tener que hablar
+                    </div>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -188,7 +191,8 @@
                     <div class="service-block-three_image img_hover_2"><img src="assets/images/resource/image-4.jpg"
                             alt=""></div>
                     <h4 class="service-block-three_title">Las mejores marcas</h4>
-                    <div class="service-block-three_text">Ven y descubre las marcas más reconocidas que tenemos para ti.</div>
+                    <div class="service-block-three_text">Ven y descubre las marcas más reconocidas que tenemos para ti.
+                    </div>
                 </div>
             </div>
         </div>
@@ -219,8 +223,23 @@
 <div class="text-center">
     <div class="sec-title-dec"><img src="assets/images/shape/shape-1.png" alt=""></div>
     <div class="sub-title">Ve las nuevas actualizaciones</div>
-    <div class="sec-title">¡Síguenos en Instagram!</div>
-    <img src="assets/images/resource/insta.png" alt="">
+    <div class="sec-title">¡Síguenos en redes sociales!</div>
+    <div class="container text-center mb-5">
+        <div class="row justify-content-center align-items-center">
+            <div class="col-md-6">
+                <a target="_blank" href="https://www.instagram.com/styleloftmr/">
+                    <img src="assets/images/resource/insta.png" alt="">
+                    <h3>@styleloftmr</h3>
+                </a>
+            </div>
+            <div class="col-md-6">
+                <a target="_blank" href="https://www.facebook.com/mystyleloftloscabos/about">
+                    <img src="assets/images/resource/fb.png" alt="">
+                    <h3>My Style Loft</h3>
+                </a>
+            </div>
+        </div>
+    </div>
 </div>
 
 <!-- Gallery -->
@@ -347,7 +366,7 @@
         <div class="theme_carousel owl-theme owl-carousel owl-style-one"
             data-options='{"loop": true, "center": false, "margin": 0, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 6000, "smartSpeed": 1000, "responsive":{ "0" :{ "items": "1" }, "480" :{ "items" : "1" }, "600" :{ "items" : "2" }, "768" :{ "items" : "2" } , "992":{ "items" : "3" }, "1200":{ "items" : "3" }}}'>
             <div class="testimonial-block-two">
-                <div class="testimonial-block-two_image"><img src="assets/images/resource/image-6.png" alt=""></div>
+                <div class="testimonial-block-two_image"><img src="assets/images/resource/image-4.png" alt=""></div>
                 <div class="testimonial-block-two_text">Excelente servicio, atención personalizada, Ropa y sus productos
                     de gran calidad.
                 </div>
@@ -356,7 +375,7 @@
             </div>
 
             <div class="testimonial-block-two">
-                <div class="testimonial-block-two_image"><img src="assets/images/resource/image-7.png" alt=""></div>
+                <div class="testimonial-block-two_image"><img src="assets/images/resource/image-4.png" alt=""></div>
                 <div class="testimonial-block-two_text">Excelente surtido de las mejores marcas de ropa, muy buena
                     atención.
                 </div>
@@ -365,7 +384,7 @@
             </div>
 
             <div class="testimonial-block-two">
-                <div class="testimonial-block-two_image"><img src="assets/images/resource/image-8.png" alt=""></div>
+                <div class="testimonial-block-two_image"><img src="assets/images/resource/image-4.png" alt=""></div>
                 <div class="testimonial-block-two_text">Muy buen servicio, ropa de calidad a buen precio 👍
                 </div>
                 <div class="testimonial-block-two_name">JorgiiXD Discord</div>
@@ -478,7 +497,6 @@
                     <div class="contact-author">
                         <div class="contact-author_thumb"><img src="assets/images/resource/image-38.jpg" alt=""></div>
                         <div class="contact-author_name">Style Loft</div>
-                        <div class="contact-author_designation">Expert Tayler</div>
                     </div>
                 </div>
             </div>
