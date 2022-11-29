@@ -90,7 +90,7 @@
                     </div>
                     <div class="introduction-block_content" data-parallax='{"y": 30}'>
                         <div class="introduction-block_text-two">Style Loft <br> Las mejores marcas</div>
-                        <a class="introduction-block_link-btn-two" href="contacto.php">Contactar</a>
+                        <a class="introduction-block_link-btn-two" href="#contacto">Contactar</a>
                     </div>
                 </div>
             </div>
@@ -125,7 +125,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="introduction-block_link-btn">
-                                <a href="https://www.instagram.com/styleloftmr/" class="theme-btn btn-style-one">Ver
+                                <a target="_blank" href="https://www.instagram.com/styleloftmr/" class="theme-btn btn-style-one">Ver
                                     Instagram</a>
                             </div>
                         </div>
@@ -212,7 +212,7 @@
         style="background-image: url(assets/images/background/bg-3.jpg)"></div>
     <div class="auto-container">
         <div class="row">
-            <div class="video-btn"><a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s"
+            <div class="video-btn"><a href="https://www.youtube.com/watch?v=RYh2amT_-vk&amp;t=28s"
                     class="overlay-link play-now ripple" data-fancybox="gallery" data-caption=""><i
                         class="fas fa-play"></i></a></div>
             <h4 class="video-block_title">Visítanos y checa todo <br> lo que tenemos para ti.</h4>
@@ -460,7 +460,7 @@
                 <div class="col-lg-8">
                     <!--Contact Form-->
                     <div class="contact-form">
-                        <form method="post" action="https://html.tonatheme.com/2022/tayler/inc/sendemail.php"
+                        <form method="post" action="#"
                             id="contact-form">
                             <div class="row">
                                 <div class="form-group col-md-6">
