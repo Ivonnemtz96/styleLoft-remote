@@ -8,7 +8,7 @@
                     <div class="content-box text-center justify-content-center">
                         <div class="inner">
                             <h1>Style Loft</h1>
-                            <h4>Encuentra ese accesorio <br> perfecto para tu look. </h4>
+                            <h4>Encuentra ese accesorio <br> perfecto para tu look.</h4>
                             <div class="link-box">
                                 <a href="services.html" class="theme-btn btn-style-one"><span>Ver galería</span></a>
                             </div>
