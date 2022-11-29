@@ -161,7 +161,7 @@
                     <div class="service-block-three_border_left"></div>
                     <div class="service-block-three_border_right"></div>
                     <div class="service-block-three_border_bottom"></div>
-                    <div class="service-block-three_image img_hover_2"><img src="assets/images/resource/image-4.jpg"
+                    <div class="service-block-three_image img_hover_2"><img src="assets/images/resource/image-9.png"
                             alt=""></div>
                     <h4 class="service-block-three_title">Ropa de Caballero</h4>
                     <div class="service-block-three_text">Donec suscipit ipsum quis est mentum, quis sollicitudin libero
@@ -187,7 +187,7 @@
                     <div class="service-block-three_border_left"></div>
                     <div class="service-block-three_border_right"></div>
                     <div class="service-block-three_border_bottom"></div>
-                    <div class="service-block-three_image img_hover_2"><img src="assets/images/resource/image-9.png"
+                    <div class="service-block-three_image img_hover_2"><img src="assets/images/resource/image-4.jpg"
                             alt=""></div>
                     <h4 class="service-block-three_title">Las mejores marcas</h4>
                     <div class="service-block-three_text">Donec suscipit ipsum quis est mentum, quis sollicitudin libero
