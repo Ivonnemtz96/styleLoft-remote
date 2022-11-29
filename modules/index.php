@@ -268,6 +268,59 @@
                     </div>
                 </div>
             </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="gallery-block gallery-overlay">
+                    <div class="gallery-block_image"><img src="assets/images/resource/image-17.jpg" alt=""></div>
+                    <div class="overlay-box">
+                        <div class="overlay-inner">
+                            <div class="content">
+                                <a href="assets/images/resource/image-17.jpg" class="lightbox-image link"
+                                    data-fancybox="gallery"><span class="icon fal fa-plus"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="gallery-block gallery-overlay">
+                    <div class="gallery-block_image"><img src="assets/images/resource/image-18.jpg" alt=""></div>
+                    <div class="overlay-box">
+                        <div class="overlay-inner">
+                            <div class="content">
+                                <a href="assets/images/resource/image-18.jpg" class="lightbox-image link"
+                                    data-fancybox="gallery"><span class="icon fal fa-plus"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="gallery-block gallery-overlay">
+                    <div class="gallery-block_image"><img src="assets/images/resource/image-19.jpg" alt=""></div>
+                    <div class="overlay-box">
+                        <div class="overlay-inner">
+                            <div class="content">
+                                <a href="assets/images/resource/image-19.jpg" class="lightbox-image link"
+                                    data-fancybox="gallery"><span class="icon fal fa-plus"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="gallery-block gallery-overlay">
+                    <div class="gallery-block_image"><img src="assets/images/resource/image-20.jpg" alt=""></div>
+                    <div class="overlay-box">
+                        <div class="overlay-inner">
+                            <div class="content">
+                                <a href="assets/images/resource/image-20.jpg" class="lightbox-image link"
+                                    data-fancybox="gallery"><span class="icon fal fa-plus"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>

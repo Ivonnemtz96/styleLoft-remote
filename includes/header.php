@@ -8,8 +8,8 @@
                  <div class="left-column">
                      <div class="header-top-two_contact-info">
                          <div class="header-top-two_contact-info-icon"><i class="fal fa-envelope-open-text"></i></div>
-                         <div class="header-top-two_mail-title">Send Email</div>
-                         <div class="header-top-two-mail"><a href="mailto:info@company.com">info@company.com</a></div>
+                         <div class="header-top-two_mail-title">Escríbenos</div>
+                         <div class="header-top-two-mail"><a href="mailto:styleloftincabo@hotmail.com">styleloftincabo@hotmail.com</a></div>
                      </div>
                  </div>
                  <div class="middle-column">
@@ -22,8 +22,8 @@
                  <div class="right-column">
                      <div class="header-top-two_contact-info">
                          <div class="header-top-two_contact-info-icon"><i class="flaticon-phone-call"></i></div>
-                         <div class="header-top-two_phone-title">Call Anytime</div>
-                         <div class="header-top-two-phone"><a href="tel:+1-(246)3330089">+ 1- (246) 333-0089</a></div>
+                         <div class="header-top-two_phone-title">Llámanos</div>
+                         <div class="header-top-two-phone"><a href="tel:+526241368912">624 136 8912</a></div>
                      </div>
                  </div>
              </div>
@@ -47,14 +47,17 @@
                      <nav class="main-menu navbar-expand-md navbar-light">
                          <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                              <ul class="navigation">
-                                 <li class="dropdown"><a href="index.html">Home</a>
-                                     <ul>
+                                 <li><a href="index.php">Inicio</a>
+                                     <!-- <ul>
                                          <li><a href="index.html">Home Page 01</a></li>
                                          <li><a href="index-2.html">Home Page 02</a></li>
-                                     </ul>
+                                     </ul> -->
                                  </li>
-                                 <li><a href="about.html">About</a></li>
-                                 <li class="dropdown"><a href="#">Services</a>
+                                 <li><a href="index.php#nosotros">Nosotros</a></li>
+                                 <li><a href="index.php#nosotros">Galería</a></li>
+                                 <li><a href="index.php#nosotros">Opiniones</a></li>
+                                 <li><a href="index.php#nosotros">Contacto</a></li>
+                                 <!-- <li class="dropdown"><a href="#">Services</a>
                                      <ul>
                                          <li><a href="services.html">Our Services</a>
                                          </li>
@@ -80,7 +83,7 @@
                                          <li><a href="blog-details.html">Blog Details</a></li>
                                      </ul>
                                  </li>
-                                 <li><a href="contact.html">Contact</a></li>
+                                 <li><a href="contact.html">Contact</a></li> -->
                              </ul>
                          </div>
                      </nav>
