@@ -133,8 +133,8 @@
              <!--Social Links-->
              <div class="social-links">
                  <ul class="clearfix">
-                     <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>i>
-                     <li><a href="#"><span class="fab fa-instagram"></span></a></li>
+                     <li><a target="_blank" href="https://www.facebook.com/mystyleloftloscabos/about"><span class="fab fa-facebook-square"></span></a></li>
+                     <li><a target="_blank" href="https://www.instagram.com/styleloftmr/"><span class="fab fa-instagram"></span></a></li>
                  </ul>
              </div>
          </nav>
