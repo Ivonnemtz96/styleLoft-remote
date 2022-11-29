@@ -10,7 +10,7 @@
                             <h1>Style Loft</h1>
                             <h4>Encuentra ese accesorio <br> perfecto para tu look.</h4>
                             <div class="link-box">
-                                <a href="services.html" class="theme-btn btn-style-one"><span>Ver galería</span></a>
+                                <a href="#galeria" class="theme-btn btn-style-one"><span>Ver galería</span></a>
                             </div>
                         </div>
                     </div>
@@ -24,7 +24,7 @@
                             <h1>Style Loft</h1>
                             <h4>¡Luce como siempre has querido! </h4>
                             <div class="link-box">
-                                <a href="services.html" class="theme-btn btn-style-one"><span>Ver galería</span></a>
+                                <a href="#galeria" class="theme-btn btn-style-one"><span>Ver galería</span></a>
                             </div>
                         </div>
                     </div>
@@ -124,7 +124,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="introduction-block_link-btn">
-                                <a href="about.html" class="theme-btn btn-style-one">Ver galería</a>
+                                <a href="https://www.instagram.com/styleloftmr/" class="theme-btn btn-style-one">Ver Instagram</a>
                             </div>
                         </div>
                     </div>
@@ -220,6 +220,7 @@
     <div class="sec-title-dec"><img src="assets/images/shape/shape-1.png" alt=""></div>
     <div class="sub-title">Ve las nuevas actualizaciones</div>
     <div class="sec-title">¡Síguenos en Instagram!</div>
+    <img src="assets/images/resource/insta.png" alt="">
 </div>
 
 <!-- Gallery -->
@@ -281,11 +282,11 @@
 
             <div class="col-lg-3 col-md-6">
                 <div class="gallery-block gallery-overlay">
-                    <div class="gallery-block_image"><img src="assets/images/resource/image-17.jpg" alt=""></div>
+                    <div class="gallery-block_image"><img src="assets/images/resource/image-42.jpg" alt=""></div>
                     <div class="overlay-box">
                         <div class="overlay-inner">
                             <div class="content">
-                                <a href="assets/images/resource/image-17.jpg" class="lightbox-image link"
+                                <a href="assets/images/resource/image-42.jpg" class="lightbox-image link"
                                     data-fancybox="gallery"><span class="icon fab fa-instagram"></span></a>
                             </div>
                         </div>
@@ -294,11 +295,11 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="gallery-block gallery-overlay">
-                    <div class="gallery-block_image"><img src="assets/images/resource/image-18.jpg" alt=""></div>
+                    <div class="gallery-block_image"><img src="assets/images/resource/image-43.jpg" alt=""></div>
                     <div class="overlay-box">
                         <div class="overlay-inner">
                             <div class="content">
-                                <a href="assets/images/resource/image-18.jpg" class="lightbox-image link"
+                                <a href="assets/images/resource/image-43.jpg" class="lightbox-image link"
                                     data-fancybox="gallery"><span class="icon fab fa-instagram"></span></a>
                             </div>
                         </div>
@@ -307,11 +308,11 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="gallery-block gallery-overlay">
-                    <div class="gallery-block_image"><img src="assets/images/resource/image-19.jpg" alt=""></div>
+                    <div class="gallery-block_image"><img src="assets/images/resource/image-44.jpg" alt=""></div>
                     <div class="overlay-box">
                         <div class="overlay-inner">
                             <div class="content">
-                                <a href="assets/images/resource/image-19.jpg" class="lightbox-image link"
+                                <a href="assets/images/resource/image-44.jpg" class="lightbox-image link"
                                     data-fancybox="gallery"><span class="icon fab fa-instagram"></span></a>
                             </div>
                         </div>
@@ -320,11 +321,11 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="gallery-block gallery-overlay">
-                    <div class="gallery-block_image"><img src="assets/images/resource/image-20.jpg" alt=""></div>
+                    <div class="gallery-block_image"><img src="assets/images/resource/image-45.jpg" alt=""></div>
                     <div class="overlay-box">
                         <div class="overlay-inner">
                             <div class="content">
-                                <a href="assets/images/resource/image-20.jpg" class="lightbox-image link"
+                                <a href="assets/images/resource/image-45.jpg" class="lightbox-image link"
                                     data-fancybox="gallery"><span class="icon fab fa-instagram"></span></a>
                             </div>
                         </div>
