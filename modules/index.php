@@ -3,7 +3,7 @@
     <div class="swiper-container banner-slider">
         <div class="swiper-wrapper">
             <!-- Slide Item -->
-            <div class="swiper-slide" style="background-image: url(assets/images/main-slider/image-1.jpg);">
+            <div class="swiper-slide" style="background-image: url(assets/images/main-slider/image-1.jpg?=1);">
                 <div class="content-outer">
                     <div class="content-box text-center justify-content-center">
                         <div class="inner">
@@ -17,7 +17,7 @@
                 </div>
             </div>
             <!-- Slide Item -->
-            <div class="swiper-slide" style="background-image: url(assets/images/main-slider/image-4.jpg);">
+            <div class="swiper-slide" style="background-image: url(assets/images/main-slider/image-4.jpg?=1);">
                 <div class="content-outer">
                     <div class="content-box text-center justify-content-center">
                         <div class="inner">
@@ -47,7 +47,7 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="feature-block">
-                    <div class="feature-block_image"><img src="assets/images/resource/image-14.jpg" alt=""></div>
+                    <div class="feature-block_image"><img src="assets/images/resource/image-14.jpg?=1" alt=""></div>
                     <h4 class="feature-block_title">Accesorios</h4>
                     <div class="feature-block_hover-content">
                         <h4 class="feature-block_title">Accesorios</h4>
@@ -57,7 +57,7 @@
             </div>
             <div class="col-lg-4">
                 <div class="feature-block">
-                    <div class="feature-block_image"><img src="assets/images/resource/image-27.jpg" alt=""></div>
+                    <div class="feature-block_image"><img src="assets/images/resource/image-27.jpg?=1" alt=""></div>
                     <h4 class="feature-block_title">Ropa de mujer</h4>
                     <div class="feature-block_hover-content">
                         <h4 class="feature-block_title">Ropa de mujer</h4>
@@ -67,7 +67,7 @@
             </div>
             <div class="col-lg-4">
                 <div class="feature-block">
-                    <div class="feature-block_image"><img src="assets/images/resource/image-15.jpg" alt=""></div>
+                    <div class="feature-block_image"><img src="assets/images/resource/image-15.jpg?=1" alt=""></div>
                     <h4 class="feature-block_title">Ropa de hombre</h4>
                     <div class="feature-block_hover-content">
                         <h4 class="feature-block_title">Ropa de hombre</h4>
@@ -86,7 +86,7 @@
             <div class="col-lg-6">
                 <div class="introduction-block_image">
                     <div class="img_hover_3">
-                        <img src="assets/images/resource/image-16.jpg" alt="">
+                        <img src="assets/images/resource/image-16.jpg?=1" alt="">
                     </div>
                     <div class="introduction-block_content" data-parallax='{"y": 30}'>
                         <div class="introduction-block_text-two">Style Loft <br> Las mejores marcas</div>
@@ -96,7 +96,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="introduction-block">
-                    <div class="sec-title-dec"><img src="assets/images/shape/shape-1.png" alt=""></div>
+                    <div class="sec-title-dec"><img src="assets/images/shape/shape-1.png?=1" alt=""></div>
                     <div class="sub-title">¿Quiénes somos?</div>
                     <div class="sec-title">Tu mejor opción <br> para lucir</div>
                     <div class="introduction-block_text">
