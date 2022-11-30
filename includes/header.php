@@ -5,13 +5,13 @@
      <div class="header-top-two">
          <div class="auto-container">
              <div class="inner-container">
-                 <div class="left-column">
+                 <!-- <div class="left-column">
                      <div class="header-top-two_contact-info">
                          <div class="header-top-two_contact-info-icon"><i class="fal fa-envelope-open-text"></i></div>
                          <div class="header-top-two_mail-title">Escríbenos</div>
                          <div class="header-top-two-mail"><a href="mailto:styleloftincabo@hotmail.com">styleloftincabo@hotmail.com</a></div>
                      </div>
-                 </div>
+                 </div> -->
                  <div class="middle-column">
                      <!--Logo-->
                      <div class="logo-box">
