@@ -45,34 +45,44 @@
 <section class="features-section">
     <div class="auto-container">
         <div class="row">
-            <div class="col-lg-4">
+            <div class="col-lg-3">
                 <div class="feature-block">
                     <div class="feature-block_image"><img src="assets/images/resource/image-14.jpg?=1" alt=""></div>
                     <h4 class="feature-block_title">Accesorios</h4>
-                    <div class="feature-block_hover-content">
+                    <!-- <div class="feature-block_hover-content">
                         <h4 class="feature-block_title">Accesorios</h4>
                         <div class="feature-block_text">La combinación <br> perfecta para ti</div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-3">
+                <div class="feature-block">
+                    <div class="feature-block_image"><img src="assets/images/resource/image-46.jpg?=1" alt=""></div>
+                    <h4 class="feature-block_title">Bolsos</h4>
+                    <!-- <div class="feature-block_hover-content">
+                        <h4 class="feature-block_title">Ropa de mujer</h4>
+                        <div class="feature-block_text">Encuentra tu <br> outfit perfecto</div>
+                    </div> -->
+                </div>
+            </div>
+            <div class="col-lg-3">
                 <div class="feature-block">
                     <div class="feature-block_image"><img src="assets/images/resource/image-27.jpg?=1" alt=""></div>
                     <h4 class="feature-block_title">Ropa de mujer</h4>
-                    <div class="feature-block_hover-content">
-                        <h4 class="feature-block_title">Ropa de mujer</h4>
-                        <div class="feature-block_text">Encuentra tu <br> outfit perfecto</div>
-                    </div>
+                    <!-- <div class="feature-block_hover-content">
+                        <h4 class="feature-block_title">Ropa de hombre</h4>
+                        <div class="feature-block_text">Luce tus <br> marcas favoritas</div>
+                    </div> -->
                 </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-3">
                 <div class="feature-block">
                     <div class="feature-block_image"><img src="assets/images/resource/image-15.jpg?=1" alt=""></div>
                     <h4 class="feature-block_title">Ropa de hombre</h4>
-                    <div class="feature-block_hover-content">
+                    <!-- <div class="feature-block_hover-content">
                         <h4 class="feature-block_title">Ropa de hombre</h4>
                         <div class="feature-block_text">Luce tus <br> marcas favoritas</div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -107,11 +117,11 @@
                     <ul class="introduction-block_list">
                         <li>
                             <i class="icon"><img src="assets/images/shape/shape-2.png" alt=""></i>
-                            Contamos con las mejores marcas
+                            Artículos originales
                         </li>
                         <li>
                             <i class="icon"><img src="assets/images/shape/shape-2.png" alt=""></i>
-                            Los mejores accesorios para combinar tu outfit
+                            Productos únicos e irrepetibles
                         </li>
                     </ul>
                     <div class="row">
@@ -144,20 +154,61 @@
             <div class="sub-title">Tenemos las mejores marcas</div>
             <div class="sec-title">¡Visítanos!</div>
         </div>
-        <div class="row">
-            <div class="col-lg-6">
+        <div class="row gx-4">
+            <div style="margin: 0 30px;" class="col-lg-1">
                 <div class="service-block-three">
-                    <div class="service-block-three_border_top"></div>
-                    <div class="service-block-three_border_left"></div>
-                    <div class="service-block-three_border_right"></div>
-                    <div class="service-block-three_border_bottom"></div>
-                    <div class="service-block-three_image img_hover_2"><img src="assets/images/resource/image-3.jpg"
-                            alt=""></div>
-                    <h4 class="service-block-three_title">Accesorios</h4>
-                    <div class="service-block-three_text">Los mejores accesorios para combianr tu outfit.</div>
+                    <div class="service-block-three_image img_hover_2 marcas">
+                        <img src="assets/images/resource/image-3.jpg"alt="">
+                    </div>
                 </div>
             </div>
-            <div class="col-lg-6">
+
+            <div style="margin: 0 30px;" class="col-lg-1">
+                <div class="service-block-three">
+                    <div class="service-block-three_image img_hover_2 marcas">
+                        <img src="assets/images/resource/image-3.jpg"alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div style="margin: 0 30px;" class="col-lg-1">
+                <div class="service-block-three">
+                    <div class="service-block-three_image img_hover_2 marcas">
+                        <img src="assets/images/resource/image-3.jpg"alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div style="margin: 0 30px;" class="col-lg-1">
+                <div class="service-block-three">
+                    <div class="service-block-three_image img_hover_2 marcas">
+                        <img src="assets/images/resource/image-3.jpg"alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div style="margin: 0 30px;" class="col-lg-1">
+                <div class="service-block-three">
+                    <div class="service-block-three_image img_hover_2 marcas">
+                        <img src="assets/images/resource/image-3.jpg"alt="">
+                    </div>
+                </div>
+            </div>
+            <div style="margin: 0 30px;" class="col-lg-1">
+                <div class="service-block-three">
+                    <div class="service-block-three_image img_hover_2 marcas">
+                        <img src="assets/images/resource/image-3.jpg"alt="">
+                    </div>
+                </div>
+            </div>
+            <div style="margin: 0 30px;" class="col-lg-1">
+                <div class="service-block-three">
+                    <div class="service-block-three_image img_hover_2 marcas">
+                        <img src="assets/images/resource/image-3.jpg"alt="">
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="col-lg-6">
                 <div class="service-block-three">
                     <div class="service-block-three_border_top"></div>
                     <div class="service-block-three_border_left"></div>
@@ -194,7 +245,7 @@
                     <div class="service-block-three_text">Ven y descubre las marcas más reconocidas que tenemos para ti.
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
