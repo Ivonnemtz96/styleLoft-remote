@@ -1,3 +1,4 @@
+
 <!-- Bnner Section -->
 <section class="banner-section style-two">
     <div class="swiper-container banner-slider">
@@ -452,10 +453,10 @@
                 <div class="col-lg-8">
                     <!--Contact Form-->
                     <div class="contact-form">
-                        <form method="post" action="#" id="contact-form">
+                        <form method="post" action="/php/contact.php" id="contact-form">
                             <div class="row">
                                 <div class="form-group col-md-6">
-                                    <input type="text" class="form-control" name="form_name" value=""
+                                    <input type="text" class="form-control" name="nombre" value=""
                                         placeholder="Nombre *" required>
                                 </div>
                                 <div class="form-group col-md-6">
@@ -463,21 +464,21 @@
                                         placeholder="Correo *" required>
                                 </div>
                                 <div class="form-group col-md-6">
-                                    <input type="text" class="form-control" name="form_phone" value=""
+                                    <input type="text" class="form-control" name="tel" value=""
                                         placeholder="Teléfono *" required>
                                 </div>
                                 <div class="form-group col-md-6">
-                                    <input type="text" class="form-control" name="form_subject" value=""
+                                    <input type="text" class="form-control" name="asunto" value=""
                                         placeholder="Asunto" required>
                                 </div>
                                 <div class="form-group col-md-12">
-                                    <textarea name="form_message" class="form-control"
+                                    <textarea name="msj" class="form-control"
                                         placeholder="Escriba su mensaje *"></textarea>
                                 </div>
                                 <div class="form-group col-md-12">
                                     <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden"
                                         value="">
-                                    <button class="btn-style-one dark" type="submit"
+                                    <button class="btn-style-one dark" type="submit" name="submit"
                                         data-loading-text="Please wait..."><span>Enviar</span></button>
                                 </div>
                             </div>

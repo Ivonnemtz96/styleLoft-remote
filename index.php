@@ -2,8 +2,11 @@
 <html lang="en">
 <?php
 include('includes/head.php');
-?>
 
+if (isset($_GET)) {
+    include_once("php/msg.php");
+}
+?>
 <body>
     <div class="page-wrapper">
         <?php
