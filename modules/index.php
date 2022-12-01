@@ -108,11 +108,11 @@
                 <div class="introduction-block">
                     <div class="sec-title-dec"><img src="assets/images/shape/shape-1.png?=1" alt=""></div>
                     <div class="sub-title">¿Quiénes somos?</div>
-                    <div class="sec-title">Tu mejor opción <br> para lucir</div>
+                    <div class="sec-title">Tu mejor opción <br> para lucir <b>increíble</b></div>
                     <div class="introduction-block_text">
                         Somos una empresa dedicada a llevar a nuestros clientes la moda más vanguardista y
                         exclusiva con las mejores y más reconocidas marcas. Reafirmamos nuestro compromiso de llevarte
-                        lo último en moda y accesorios para dama y caballero a un excelente precio.
+                        lo último en moda y accesorios para dama y caballero.
                     </div>
                     <ul class="introduction-block_list">
                         <li>
@@ -135,7 +135,8 @@
                         </div>
                         <div class="col-md-6">
                             <div class="introduction-block_link-btn">
-                                <a target="_blank" href="https://www.instagram.com/styleloftmr/" class="theme-btn btn-style-one">Ver
+                                <a target="_blank" href="https://www.instagram.com/styleloftmr/"
+                                    class="theme-btn btn-style-one">Ver
                                     Instagram</a>
                             </div>
                         </div>
@@ -154,100 +155,40 @@
             <div class="sub-title">Tenemos las mejores marcas</div>
             <div class="sec-title">¡Visítanos!</div>
         </div>
-        <div class="row gx-4">
-            <div style="margin: 0 30px;" class="col-lg-1">
-                <div class="service-block-three">
-                    <div class="service-block-three_image img_hover_2 marcas">
-                        <img src="assets/images/resource/image-3.jpg"alt="">
-                    </div>
-                </div>
+    </div>
+    <div class="container">
+        <div class="row h-100 justify-content-around gx-2">
+            <div class="col-4 col-md-1 mt-2">
+                <img class="marcas" src="assets/images/resource/image-3.jpg" alt="">
             </div>
 
-            <div style="margin: 0 30px;" class="col-lg-1">
-                <div class="service-block-three">
-                    <div class="service-block-three_image img_hover_2 marcas">
-                        <img src="assets/images/resource/image-3.jpg"alt="">
-                    </div>
-                </div>
+            <div class="col-4 col-md-1 mt-2">
+                <img class="marcas" src="assets/images/resource/image-47.jpg" alt="">
             </div>
 
-            <div style="margin: 0 30px;" class="col-lg-1">
-                <div class="service-block-three">
-                    <div class="service-block-three_image img_hover_2 marcas">
-                        <img src="assets/images/resource/image-3.jpg"alt="">
-                    </div>
-                </div>
+            <div class="col-4 col-md-1 mt-2">
+                <img class="marcas" src="assets/images/resource/image-48.jpg" alt="">
             </div>
 
-            <div style="margin: 0 30px;" class="col-lg-1">
-                <div class="service-block-three">
-                    <div class="service-block-three_image img_hover_2 marcas">
-                        <img src="assets/images/resource/image-3.jpg"alt="">
-                    </div>
-                </div>
+            <div class="col-4 col-md-1 mt-2">
+                <img class="marcas" src="assets/images/resource/image-49.jpg" alt="">
             </div>
 
-            <div style="margin: 0 30px;" class="col-lg-1">
-                <div class="service-block-three">
-                    <div class="service-block-three_image img_hover_2 marcas">
-                        <img src="assets/images/resource/image-3.jpg"alt="">
-                    </div>
-                </div>
+            <div class="col-4 col-md-1 mt-2">
+                <img class="marcas" src="assets/images/resource/image-50.jpg" alt="">
             </div>
-            <div style="margin: 0 30px;" class="col-lg-1">
-                <div class="service-block-three">
-                    <div class="service-block-three_image img_hover_2 marcas">
-                        <img src="assets/images/resource/image-3.jpg"alt="">
-                    </div>
-                </div>
+
+            <div class="col-4 col-md-1 mt-2">
+                <img class="marcas" src="assets/images/resource/image-51.jpg" alt="">
             </div>
-            <div style="margin: 0 30px;" class="col-lg-1">
-                <div class="service-block-three">
-                    <div class="service-block-three_image img_hover_2 marcas">
-                        <img src="assets/images/resource/image-3.jpg"alt="">
-                    </div>
-                </div>
+
+            <div class="col-4 col-md-1 mt-2">
+                <img class="marcas" src="assets/images/resource/image-52.jpg" alt="">
             </div>
-            <!-- <div class="col-lg-6">
-                <div class="service-block-three">
-                    <div class="service-block-three_border_top"></div>
-                    <div class="service-block-three_border_left"></div>
-                    <div class="service-block-three_border_right"></div>
-                    <div class="service-block-three_border_bottom"></div>
-                    <div class="service-block-three_image img_hover_2"><img src="assets/images/resource/image-9.png"
-                            alt=""></div>
-                    <h4 class="service-block-three_title">Ropa de Caballero</h4>
-                    <div class="service-block-three_text">Estilo es una manera de decir quien eres sin tener que hablar
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="service-block-three">
-                    <div class="service-block-three_border_top"></div>
-                    <div class="service-block-three_border_left"></div>
-                    <div class="service-block-three_border_right"></div>
-                    <div class="service-block-three_border_bottom"></div>
-                    <div class="service-block-three_image img_hover_2"><img src="assets/images/resource/image-5.jpg"
-                            alt=""></div>
-                    <h4 class="service-block-three_title">Ropa Dama</h4>
-                    <div class="service-block-three_text">La elegancia es la única belleza que nunca desaparece.</div>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="service-block-three">
-                    <div class="service-block-three_border_top"></div>
-                    <div class="service-block-three_border_left"></div>
-                    <div class="service-block-three_border_right"></div>
-                    <div class="service-block-three_border_bottom"></div>
-                    <div class="service-block-three_image img_hover_2"><img src="assets/images/resource/image-4.jpg"
-                            alt=""></div>
-                    <h4 class="service-block-three_title">Las mejores marcas</h4>
-                    <div class="service-block-three_text">Ven y descubre las marcas más reconocidas que tenemos para ti.
-                    </div>
-                </div>
-            </div> -->
         </div>
     </div>
+    </div>
+
 </section>
 
 
@@ -277,13 +218,13 @@
     <div class="sec-title">¡Síguenos en redes sociales!</div>
     <div class="container text-center mb-5">
         <div class="row justify-content-center align-items-center">
-            <div class="col-md-6">
+            <div class="col-6 col-md-3">
                 <a target="_blank" href="https://www.instagram.com/styleloftmr/">
                     <img src="assets/images/resource/insta.png" alt="">
                     <h3>@styleloftmr</h3>
                 </a>
             </div>
-            <div class="col-md-6">
+            <div class="col-6 col-md-3">
                 <a target="_blank" href="https://www.facebook.com/mystyleloftloscabos/about">
                     <img src="assets/images/resource/fb.png" alt="">
                     <h3>My Style Loft</h3>
@@ -450,8 +391,8 @@
 
 <div class="text-center" id="contacto">
     <div class="sec-title-dec"><img src="assets/images/shape/shape-1.png" alt=""></div>
-    <div class="sub-title">¿Tienes alguna duda o pregunta sobre nuestros productos?</div>
-    <div class="sec-title">¡Mándanos mensaje!</div>
+    <div class="sub-title">¿Estás buscando tu estilo?</div>
+    <div class="sec-title">¡Encuéntralo aquí!</div>
 </div>
 
 <!-- Map Section -->
@@ -488,7 +429,7 @@
                     <div class="inner-box">
                         <div class="contact-info-section_text">Vísitanos</div>
                         <h4 class="contact-info-section_title"> <a target="_blank"
-                                href="https://goo.gl/maps/D5KjrpUadpeyF4Tc6">Local 1 Fracc, Monte Real,</a></h4>
+                                href="https://goo.gl/maps/D5KjrpUadpeyF4Tc6">Local 1 Fracc, Monte Real</a></h4>
                     </div>
                 </div>
             </div>
@@ -511,8 +452,7 @@
                 <div class="col-lg-8">
                     <!--Contact Form-->
                     <div class="contact-form">
-                        <form method="post" action="#"
-                            id="contact-form">
+                        <form method="post" action="#" id="contact-form">
                             <div class="row">
                                 <div class="form-group col-md-6">
                                     <input type="text" class="form-control" name="form_name" value=""

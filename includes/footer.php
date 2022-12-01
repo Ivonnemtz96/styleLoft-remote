@@ -1,3 +1,16 @@
+<style>
+    #whatsapp {
+        position: fixed;
+        z-index: 999;
+        bottom: 9rem;
+        right: 2.2rem;
+        width: 3rem;
+    }
+
+</style>
+<a href="https://wa.me/+526241368912?text=Hola,%20me%20gustaría%20más%20información." target="_blank">
+    <img src="assets/images/WA.png" alt="WhatsApp" id="whatsapp" />
+</a>
 <footer class="main-footer" style="background-image: url(assets/images/background/bg-6.jpg);">
     <div hidden class="auto-container">
         <!--Widgets Section-->
